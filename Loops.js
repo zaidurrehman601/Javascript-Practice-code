@@ -56,6 +56,7 @@ for (let i = 0; i < 11; i++) {
 
     }
 }
+// Practice tasks what will be the output
 var i = 3;
 var j = 5;
 
